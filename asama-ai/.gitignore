@@ -1,0 +1,8 @@
+.env
+venv/
+asama.db
+__pycache__/
+*.pyc
+frontend/node_modules/
+backend/.env
+frontend/.env
